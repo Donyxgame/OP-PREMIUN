@@ -1,10 +1,10 @@
 {
-  "name": "telegram-stripe-bot",
+  "name": "op-premiun",
   "version": "1.0.0",
-  "description": "Telegram digital store bot",
-  "main": "index.js",
+  "description": "Private Telegram Bot",
+  "main": "api/telegram.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node api/telegram.js"
   },
   "dependencies": {
     "dotenv": "^16.4.7",
